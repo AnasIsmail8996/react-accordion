@@ -1,0 +1,19 @@
+
+
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Karachi Pakistan"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call Us",
+    "details": "Call & Message"
+  },
+  {
+    "icon": "IoMailOpen",
+    "title": "Mail Us",
+    "details": "anasismailhz@gmail.com"
+  }
+]
